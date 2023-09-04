@@ -10,9 +10,8 @@ Back end e-commerce site. Created using a working express.js API configured to u
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
-- [Questions](#questions)
+
 
 
 
